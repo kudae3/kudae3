@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi there 👋  This is Kudae Sithu</h3>
+<h2 align="center">Hi there 👋  This is Kudae Sithu</h2>
 
 ###
 
@@ -109,6 +109,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kudae3/kudae3/output/snake.svg" alt="Snake animation" />
+<img src="https://pacman.abozanona.me?username=kudae3" />
 
 ###

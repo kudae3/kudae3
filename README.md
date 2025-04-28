@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first "Hello, World!"<br><br>📚 I'm currently learning advanced backend development and cloud deployment.<br><br>🎯 Goals: Build real-world projects, contribute to open-source, and become a skilled software engineer.<br><br>🎲 Fun fact: I believe fixing my sleep schedule is harder than fixing any bug.</p>
+<p align="left">🔭 I’m currently working as a Web Developer, building real-world applications using Laravel, Vue.js, and the MERN stack.<br><br>📚 I'm constantly learning and improving my skills in full-stack development, especially in areas like server deployment, database optimization, and scalable system design.<br><br>⚡ In my free time, I love watching TV series, exploring new tech tools, and contributing to open-source projects.<br><br>💡 I’m passionate about technology, open learning, and using code to solve real-life problems in communities.</p>
 
 ###
 
@@ -121,6 +121,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kudae3/kudae3/output/snake.svg" alt="Snake animation" />
+<img src="https://pacman.abozanona.me?username=kudae3" />
 
 ###

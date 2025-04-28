@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as a Web Developer, building real-world applications using Laravel, Vue.js, and the MERN stack.<br><br>📚 I'm constantly learning and improving my skills in full-stack development, especially in areas like server deployment, database optimization, and scalable system design.<br><br>⚡ In my free time, I love watching TV series, exploring new tech tools, and contributing to open-source projects.<br><br>💡 I’m passionate about technology, open learning, and using code to solve real-life problems in communities.</p>
+<p align="left">🔭 I’m currently working as a Full-stack Web Developer, building real-world applications. <br><br>📚 I'm constantly learning and improving my skills in full-stack development, especially in areas like server deployment, database optimization, and scalable system design.<br><br>⚡ In my free time, I love watching TV series, exploring new tech tools, and contributing to open-source projects.<br><br>💡 I’m passionate about technology, open learning, and using code to solve real-life problems in communities.</p>
 
 ###
 

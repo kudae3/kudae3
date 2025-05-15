@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="/assets/profile.gif" />
+  <img width=350 src="/assets/profile.gif" />
 </div>
 
 ###
@@ -31,7 +31,7 @@
   <a href="kudaesithu2@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="kudae sithu" target="_blank">
+  <a href="+959751025121" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
@@ -121,6 +121,8 @@
 
 ###
 
-<img src="https://pacman.abozanona.me?username=kudae3" />
+<div>
+  <img src="https://pacman.abozanona.me?username=kudae3" />
+</div>
 
 ###

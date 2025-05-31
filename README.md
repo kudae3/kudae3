@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Kudae Sithu, and I'm a passionate web developer based in Myanmar.</p>
+<p align="left">My name is Kudae Sithu, and I'm a web developer based in Myanmar.</p>
 
 ###
 

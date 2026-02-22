@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Kudae Sithu, and I'm a web developer based in Myanmar.</p>
+<p align="left">My name is Kudae Sithu, and I'm a software developer based in Myanmar.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as a Full-stack Web Developer, building real-world applications. <br><br>📚 I'm constantly learning and improving my skills in full-stack development, especially in areas like server deployment, database optimization, and scalable system design.<br><br>⚡ In my free time, I love watching TV series, exploring new tech tools, and contributing to open-source projects.<br><br>💡 I’m passionate about technology, open learning, and using code to solve real-life problems in communities.</p>
+<p align="left">🔭 I’m currently working as a Software Developer, building real-world applications. <br><br>📚 I'm constantly learning and improving my skills in full-stack development, especially in areas like server deployment, database optimization, and scalable system design.<br><br>⚡ In my free time, I love watching TV series, exploring new tech tools, and contributing to open-source projects.<br><br>💡 I’m passionate about technology, open learning, and using code to solve real-life problems in communities.</p>
 
 ###
 
